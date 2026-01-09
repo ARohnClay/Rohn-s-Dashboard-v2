@@ -1,0 +1,1 @@
+// This file is intentionally left empty. The application logic is contained entirely within index.html.
